@@ -1,0 +1,42 @@
+.surveys-box {
+  margin: 6vh 0 0 0;
+}
+
+.surveys-box h2{
+  font-size: 2rem;
+}
+
+.surveys-list {
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content:space-evenly; */
+  /* align-content: space-around; */
+  list-style: none;
+  gap: 20px;
+  padding: 0;
+  margin: 4vh 0 0 0;
+}
+
+.survey {
+  color: #000;
+  flex-basis: 340px;
+  flex-grow: 1;
+  padding: 5px;
+  background: #A3D740;
+  border-radius: 7px;
+}
+
+.question {
+  font-weight: 400;
+  font-size: 1.3em;
+  margin: 0 0 2vh 0;
+}
+
+.options {
+  list-style:lower-alpha;
+  font-size: 1.2em;
+}
+
+.options li {
+  padding: 2px;
+}

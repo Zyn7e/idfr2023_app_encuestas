@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# APP DE ENCUESTA CON REACT
+
+Tarea de la clase N°4 del curso "Introducción Al Desarrollo Web Con React". El proyecto conciste en una pagina simple que muestra un listado de encuestas disponibles.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
